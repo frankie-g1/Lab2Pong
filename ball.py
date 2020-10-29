@@ -21,7 +21,6 @@ class Ball:
         pygame.draw.circle(self.screen, color, (self.x, self.y), self.RADIUS)
 
     def update(self):
-        # Todo:
         # Check if I'm colliding with wall position:
         # Flip the direction
         if self.x <= self.wall + self.RADIUS:

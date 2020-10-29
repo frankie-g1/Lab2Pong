@@ -51,7 +51,6 @@ def main():
     ceiling = BORDER
     floor = HEIGHT - BORDER
     ycolor = pg.Color("Yellow")
-    # Todo: +/- 45 degree random
     a = Ball(x0, y0, vx0, vy0, ycolor, blackColor, screen, wall, ceiling, floor)
 
     pg.display.update()
