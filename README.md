@@ -1,7 +1,7 @@
 # Lab2Pong
 Imported Pygame and use pip freeze > to see requirements.txt
 
-[Imgur](https://imgur.com/vWJ0Skv)
+[Lab2](https://imgur.com/vWJ0Skv)
 
 Ball starting going downwards
 [![Image from Gyazo](https://i.gyazo.com/9c20d6ffc122d8a32089c10c1b8c50b1.gif)](https://gyazo.com/9c20d6ffc122d8a32089c10c1b8c50b1)
